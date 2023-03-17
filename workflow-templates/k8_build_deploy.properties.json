@@ -1,0 +1,14 @@
+{
+    "name": "rimraf build and deploy pipeline",
+    "description": "Default rimraf build-deploy pipeline.",
+    "iconName": "rocket",
+    "categories": [
+        "Build",
+        "Deploy"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
