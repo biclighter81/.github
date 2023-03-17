@@ -1,7 +1,7 @@
 {
     "name": "rimraf build and deploy pipeline",
     "description": "Default rimraf build-deploy pipeline.",
-    "iconName": "rocket",
+    "iconName": "rocket-icon",
     "categories": [
         "Build",
         "Deploy"
